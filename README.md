@@ -9,7 +9,7 @@ Currently, saved data can be downloaded in varoius formats:
 2. Text (.txt)
 3. HTML Table
 4. CSV
-5. TSV *(Coming Soon)*
+5. TSV
 6. JSON *(Coming Soon)*
 
 # Available Data
