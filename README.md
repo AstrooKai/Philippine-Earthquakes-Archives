@@ -7,8 +7,8 @@ Currently, saved data can be downloaded in varoius formats:
 
 1. Excel (.xlsx)
 2. Text (.txt)
-3. HTML Table (.html) *(Coming Soon)*
-4. CSV *(Coming Soon)*
+3. HTML Table
+4. CSV
 5. TSV *(Coming Soon)*
 6. JSON *(Coming Soon)*
 
@@ -23,4 +23,3 @@ This list shows monthly and yearly data that is currently available in the repos
 
 # Coming Soon
 1. Monthly data files in various formats
-2. JSON format
