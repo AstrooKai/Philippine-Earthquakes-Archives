@@ -10,7 +10,7 @@ Currently, saved data can be downloaded in varoius formats:
 3. HTML Table
 4. CSV
 5. TSV
-6. JSON *(Coming Soon)*
+6. JSON
 
 # Available Data
 This list shows monthly and yearly data that is currently available in the repository. For reference, __Full Year__ defines that the data saved in the specific year is complete (January - December).
