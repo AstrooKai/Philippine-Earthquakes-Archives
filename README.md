@@ -3,7 +3,7 @@ This repository stores basic details (time and location, coordinates of epicente
 
 **NOTE:** This repository and its creator is not associated in any way with [DOST-PHIVOLCS](https://www.phivolcs.dost.gov.ph/), every data in this repository are originally taken from [their site](https://earthquake.dost.gov.ph/) and is changed into various formats that is available here.
 # Available Data Formats
-Currently, saved data can be downloaded in varoius formats:
+Currently, saved data can be downloaded in varoius formats. Other formats are originally converted from excel, which means that every file contains the same table data but served in different file format.
 
 1. Excel (.xlsx)
 2. Text (.txt)
@@ -11,6 +11,7 @@ Currently, saved data can be downloaded in varoius formats:
 4. CSV
 5. TSV
 6. JSON
+7. PDF *(Coming Soon)*
 
 # Available Data
 This list shows monthly and yearly data that is currently available in the repository. For reference, __Full Year__ defines that the data saved in the specific year is complete (January - December).
