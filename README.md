@@ -21,3 +21,7 @@ This list shows monthly and yearly data that is currently available in the repos
 3. [Year 2020](/2020) (Full Year)
 4. [Year 2021](/2021) (Full Year)
 5. Year 2022 *Archiving in progress, currently unavailable*
+
+# Coming Soon
+1. Yearly data files for years 2016, 2017, and 2018 *(different file formats included)*
+2. Monthly data files for all years *(May take 2 months to be done manually)*
